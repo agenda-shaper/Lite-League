@@ -1,5 +1,5 @@
 # Lite-League
- Lightweight Rocket League on Unity
+ Lightweight Rocket League in Unity
  
 Powered by RocketSim:
- - https://github.com/ZealanL/RocketSim
+> https://github.com/ZealanL/RocketSim
