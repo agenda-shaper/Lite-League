@@ -9,8 +9,7 @@ Download:
 
 
 Keyboard controls
-WASD QE Shift Space
-
-5 : reset map
-numpad * : boost
-numpad - : jump
+- WASD QE Shift Space
+- 5 : reset map
+- numpad * : boost
+- numpad - : jump
