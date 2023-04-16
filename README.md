@@ -3,3 +3,6 @@
  
 Powered by RocketSim:
 > https://github.com/ZealanL/RocketSim
+
+Download:
+> https://github.com/DevastMod/Lite-League/releases/download/Test/Lite-League.zip
