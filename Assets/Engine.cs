@@ -48,7 +48,7 @@ public class Arena {
         if (this.carDict.TryGetValue(id, out Car car)) {
             return car;
         } else {
-            Debug.Log("Car with id " + id + " not found in car dictionary");
+            Debug.LogError("Car with id " + id + " not found in car dictionary");
             return null;
         }
     }
@@ -179,12 +179,16 @@ public class Engine : MonoBehaviour
             for (int i = 0; i < num_cars; i++) {
 
                 float CarID = GameTickPacket[i * 16 + 15];
-                if (float.IsNaN(CarID) || float.IsInfinity(CarID) || CarID <= 0) {
+
+                if (float.IsNaN(CarID) || float.IsInfinity(CarID) || CarID <= 0 || CarID != Math.Round(CarID)) {
                     //Debug.Log(CarID);
                     //Debug.Log(string.Join(", ", GameTickPacket));  // first frame uninitialized GameTickPacket prob because of 120tps timing in the cpp engine
                     return;
                 }
-                Car car = arena.getCarById((int)GameTickPacket[i * 16 + 15]);
+                Debug.Log("Getting car by id: ");
+                Debug.Log(CarID);
+
+                Car car = arena.getCarById((int)CarID);
                 Vector3 carPos = new Vector3(GameTickPacket[i * 16 + 1], GameTickPacket[i * 16 + 2], GameTickPacket[i * 16]);
                 car.gameObject.transform.position = carPos;
 
@@ -213,6 +217,9 @@ public class Engine : MonoBehaviour
 
                 //GameTickPacket[i * 16 + 14] = static_cast<float>(Car->team);
             }
+
+            Debug.Log("Getting car by id from arena instance: ");
+            Debug.Log(arena.mainCarId);
 
 
             Car mainCar = arena.getCarById(arena.mainCarId);     

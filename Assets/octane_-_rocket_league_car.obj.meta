@@ -8,42 +8,42 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Dieci_-_BL_(Octane)_Dieci_Rim_0Mat
-    second: {fileID: 2100000, guid: 1cb61a6e996dbdc40b4859257cf80b26, type: 2}
+    second: {fileID: 2100000, guid: 5f5a5df4ef1aabe419f70a27694ebdce, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Dieci_-_BL_(Octane)_Dieci_Tread_0Mat
-    second: {fileID: 2100000, guid: cdeb066a618531c418a8923d1fa8c0f5, type: 2}
+    second: {fileID: 2100000, guid: 86d41efa2ecc8f140a7ce667f846a89c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Dieci_-_BR_(Octane)_Dieci_Rim_0Mat
-    second: {fileID: 2100000, guid: 97a26777c9d69c84da97cc25914cebfc, type: 2}
+    second: {fileID: 2100000, guid: 5f5a5df4ef1aabe419f70a27694ebdce, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Dieci_-_BR_(Octane)_Dieci_Tread_0Mat
-    second: {fileID: 2100000, guid: 3a4c5185968d55a4097d0b30dd836160, type: 2}
+    second: {fileID: 2100000, guid: 528f3b1ee0b0a4443b13c28aabfc7dd2, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Dieci_-_FL_(Octane)_Dieci_Rim_0Mat
-    second: {fileID: 2100000, guid: 3df9fe407cdd54e49b2a59419c6178ea, type: 2}
+    second: {fileID: 2100000, guid: 5f5a5df4ef1aabe419f70a27694ebdce, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Dieci_-_FL_(Octane)_Dieci_Tread_0Mat
-    second: {fileID: 2100000, guid: f711f1ef9512b0f4ba4c8d39755625a2, type: 2}
+    second: {fileID: 2100000, guid: 528f3b1ee0b0a4443b13c28aabfc7dd2, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Dieci_-_FR_(Octane)_Dieci_Rim_0Mat
-    second: {fileID: 2100000, guid: f4f5f06809d81a3488820fdbe42c6517, type: 2}
+    second: {fileID: 2100000, guid: 5f5a5df4ef1aabe419f70a27694ebdce, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Dieci_-_FR_(Octane)_Dieci_Tread_0Mat
-    second: {fileID: 2100000, guid: 6eee4a4c66426494cb5f66dae0c3a31a, type: 2}
+    second: {fileID: 2100000, guid: 86d41efa2ecc8f140a7ce667f846a89c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -68,22 +68,22 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Octane_Octane_Body_0Mat
-    second: {fileID: 2100000, guid: 8afc4263b11b1f64db88be1bad24dcf4, type: 2}
+    second: {fileID: 2100000, guid: 5f5a5df4ef1aabe419f70a27694ebdce, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Octane_Octane_Chassis_0Mat
-    second: {fileID: 2100000, guid: be6c364bcb3f54a42aa36dce57557348, type: 2}
+    second: {fileID: 2100000, guid: 528f3b1ee0b0a4443b13c28aabfc7dd2, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Octane_Paint_0Mat
-    second: {fileID: 2100000, guid: 92f90eca09a5a3e4991f2b0d1641675f, type: 2}
+    second: {fileID: 2100000, guid: 139b9f946d9f0a44a8601a5c129ae8e8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Octane_Window_0Mat
-    second: {fileID: 2100000, guid: a42b69f2c2f00674eb40c0b3dada02d8, type: 2}
+    second: {fileID: 2100000, guid: 95d672c643c7ed740b2bed584943e4ec, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
