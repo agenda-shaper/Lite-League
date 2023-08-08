@@ -5,7 +5,7 @@ Powered by RocketSim:
 > https://github.com/ZealanL/RocketSim
 
 Download:
-> https://github.com/DevastMod/Lite-League/releases/download/Test/Lite-League.zip
+> https://github.com/agenda-shaper/Lite-League/releases/download/beta/Lite.League.zip
 
 
 Keyboard controls
